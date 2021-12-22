@@ -18,7 +18,7 @@ object AppTokenEncryptUtil {
     /* ------------------------------ Encode */
 
     /**
-     * Get token application token by encrypt rule
+     * Get token by encrypt rule
      */
     val encodeData: String
         get() {
