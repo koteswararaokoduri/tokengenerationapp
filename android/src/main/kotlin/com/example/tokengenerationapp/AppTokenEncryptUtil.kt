@@ -18,7 +18,7 @@ object AppTokenEncryptUtil {
     /* ------------------------------ Encode */
 
     /**
-     * Get Flapp application token by encrypt rule
+     * Get token application token by encrypt rule
      */
     val encodeData: String
         get() {
